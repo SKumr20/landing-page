@@ -40,11 +40,25 @@ a
 .topBlock {
     background-color: #1F2937;
     display: flex;
-    padding: 200px;
+    padding: 250px;
 }
 
 .topBlock .mainText {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FaF8;
+}
+
+.topBlock .secondText {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.button1 button {
+    background-color: #3882f6;
+    color: #F9FaF8;
+    font-weight: bolder;
+    border-radius: 10px;
+    border-style: none;
+    padding: 5px;
 }
