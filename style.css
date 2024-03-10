@@ -41,6 +41,7 @@ a
     background-color: #1F2937;
     display: flex;
     padding: 250px;
+    justify-content: space-between;
 }
 
 .topBlock .mainText {
@@ -53,6 +54,9 @@ a
     font-size: 18px;
     color: #E5E7EB;
 }
+.topBlock .secondText p {
+    margin: 5px;
+}
 
 .button1 button {
     background-color: #3882f6;
@@ -60,5 +64,5 @@ a
     font-weight: bolder;
     border-radius: 10px;
     border-style: none;
-    padding: 5px;
+    padding: 10px;
 }
