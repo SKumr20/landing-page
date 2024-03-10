@@ -66,3 +66,10 @@ a
     border-style: none;
     padding: 10px;
 }
+
+.topBlock .image {
+    display: flex;
+    background-color: #F9FaF8;
+    height: 200px;
+    width: 500px;
+}
