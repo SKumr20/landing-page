@@ -67,6 +67,10 @@ a
     padding: 10px;
 }
 
+.button1 button:hover {
+    opacity: 0.8;
+}
+
 .topBlock .image {
     display: flex;
     background-color: #F9FaF8;
