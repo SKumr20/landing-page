@@ -99,15 +99,32 @@ a
 
 .infoBlock .infoCards {
     display: flex;
-    justify-content: space-around;
-    height: 150px;
-    width: 150px;
-    border-radius: 20px;
-    border: 2px solid #3882f6;
+    flex-direction: column;
 }
 
 .infoBlock .text {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+}
+
+.infobox {
+    display: flex;
+    flex-direction: column;
+    background-color: #F9FaF8;
+    justify-content: space-around;
+    height: 150px;
+    width: 150px;
+    border-radius: 20px;
+    border: 2px solid #3882f6;
+    
+}
+
+.boxtext {
+    color: #1f2937;
+    padding-top: 10px;
+    height: 75px;
+    width: 150px;
+    font-size: 18px;
+    text-align: center;
 }
