@@ -73,9 +73,11 @@ a
 
 .topBlock .image {
     display: flex;
-    background-color: #F9FaF8;
-    height: 200px;
-    width: 500px;
+    background-color: #e5e7eb8a;
+    height: 300px;
+    width: 600px;
+    justify-content: center;
+    align-items: center;
 }
 
 .infoBlock {
