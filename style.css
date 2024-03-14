@@ -206,5 +206,15 @@ a
     scale: 105%;
 }
 
+.bottom {
+    background-color: #1F2937;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    padding: 20px;
+    align-items: center;
+    font-size: 18px;
+    color: #E5E7EB;
+}
 
 
