@@ -157,3 +157,48 @@ a
     font-weight: bolder;
 }
 
+.action {
+    background-color: #F9FaF8;
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+
+.action .actionblock {
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 120px;
+    width: 1000px;
+    border-radius: 10px;
+}
+
+.actionblock .actiontextcontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.actiontextcontainer .actionheading {
+    color: #F9FaF8;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.actionblock .actionbottomtext {
+    color: #F9FaF8;
+    font-size: 18px;
+}
+
+.actionbutton button {
+    background-color: #3882f6;
+    color: #F9FaF8;
+    font-weight: bolder;
+    border-radius: 5px;
+    border: 2px solid #F9FaF8;
+    padding: 10px;
+}
+
+
+
