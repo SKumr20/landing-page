@@ -69,6 +69,7 @@ a
 
 .button1 button:hover {
     opacity: 0.8;
+    scale: 105%;
 }
 
 .topBlock .image {
@@ -198,6 +199,11 @@ a
     border-radius: 5px;
     border: 2px solid #F9FaF8;
     padding: 10px;
+}
+
+.actionbutton button:hover{
+    opacity: 0.8;
+    scale: 105%;
 }
 
 
